@@ -5,7 +5,7 @@
 
 _FLORE link_ : https://hdl.handle.net/2158/1375192
 
-_CDS report number_ : TBA
+_CDS report number_ : [CERN-THESIS-2024-108](https://cds.cern.ch/record/2906203)
 
 ## Info
 
@@ -36,7 +36,7 @@ Are you referring to my research project? Please cite me!
                at CERN}",
     school = "University of Firenze",
     year   = "2024",
-    url    = "TBA",
+    url    = "https://cds.cern.ch/record/2906203",
 }
 ```
 
